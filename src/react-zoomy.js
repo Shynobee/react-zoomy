@@ -28,7 +28,7 @@ const ImageContainer = styled.div`
 `;
 
 export default class ReactZoomy extends Component {
-  static propTypes = {
+  /*static propTypes = {
     imageUrl: PropTypes.string.isRequired,
     renderThumbnail: PropTypes.func.isRequired,
     renderCursor: PropTypes.func,
@@ -36,7 +36,7 @@ export default class ReactZoomy extends Component {
     imageContainerProps: PropTypes.object,
     imageProps: PropTypes.object,
     scale: PropTypes.array
-  };
+  };*/
 
   static defaultProps = {
     scale: [1, 1]
