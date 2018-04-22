@@ -1,5 +1,8 @@
 # react-zoomy
 
+the original repository is here : https://github.com/chuson1996/react-zoomy 
+i didn't do it, i just did some improvement for React 16.4 =D
+
 [Demo](https://chuson1996.github.io/react-zoomy/)
 
 [Live Demo - Tutorial](https://www.youtube.com/watch?v=shIeuTM_6t0)
